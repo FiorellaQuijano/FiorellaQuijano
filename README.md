@@ -37,10 +37,6 @@ Mi mayor fuente de motivación es mi perrita **Lila** 🐶, una Chihuahua llena 
 ---
 ## 🛠️ Tecnologías & Herramientas  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,figma" />
-</p>
-
 - **Java** (POO, manejo de archivos, estructuras de datos)  
 - **JavaFX** (interfaces gráficas interactivas)  
 - **Python** (algoritmos, IA, análisis de datos)  
