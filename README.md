@@ -36,6 +36,7 @@ Mi mayor fuente de motivación es mi perrita **Lila** 🐶, una Chihuahua llena 
 - 📎 [Ver repositorio](https://github.com/FiorellaQuijano/Primer-Formulario.git)  
 
 ---
+## 🛠️ Tecnologías & Herramientas  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,figma" />
@@ -48,15 +49,6 @@ Mi mayor fuente de motivación es mi perrita **Lila** 🐶, una Chihuahua llena 
 - **Figma** (prototipado de interfaces)  
 - **Arduino** (proyectos de physical computing con sensores y módulos Bluetooth)  
 - **Git & GitHub** (control de versiones y despliegue en GitHub Pages)  
-
----
-
-## <span style="color:#dda0dd">📊 Estadísticas de GitHub</span>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FiorellaQuijano&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiorellaQuijano&layout=compact&theme=tokyonight" height="150" />
-</p>
 
 ---
 
