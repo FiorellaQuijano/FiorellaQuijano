@@ -35,7 +35,7 @@ Mi mayor fuente de motivación es mi perrita **Lila** 🐶, una Chihuahua llena 
 - 📎 [Ver repositorio](https://github.com/FiorellaQuijano/Primer-Formulario.git)  
 
 ---
-## # <span style="color:#d291bc">🛠️ Tecnologías & Herramientas  
+##  <span style="color:#d291bc">🛠️ Tecnologías & Herramientas  
 
 - **Java** (POO, manejo de archivos, estructuras de datos)  
 - **JavaFX** (interfaces gráficas interactivas)  
