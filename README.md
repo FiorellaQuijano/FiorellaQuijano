@@ -1,7 +1,6 @@
 # <span style="color:#d291bc">👋 ¡Hola! Soy Fiorella Quijano</span>  
 
-Soy **estudiante de Ciencias de la Computación en ESPOL** apasionada por el desarrollo de software, el diseño de interfaces y la innovación tecnológica.  
-Actualmente estoy aprendiendo y creando proyectos que integran **Java, Python y desarrollo web**. 🚀  
+Soy **estudiante de Ciencias de la Computación en ESPOL** apasionada por el desarrollo de software, el diseño de interfaces y la innovación tecnológica. Actualmente estoy aprendiendo y creando proyectos que integran **Java, Python y desarrollo web**. 🚀  
 
 ---
 
