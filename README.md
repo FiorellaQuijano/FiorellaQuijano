@@ -50,7 +50,7 @@ Mi mayor fuente de motivación es mi perrita **Lila** 🐶, una Chihuahua llena 
 ## <span style="color:#dda0dd">📫 Contacto</span>  
 - 📧 Correo institucional: **[fioanqui@espol.edu.ec]**  
 - 🌐 Portafolio en GitHub Pages:  
-  👉 [https://FiorellaQuijano.github.io/FiorellaQuijano/](https://FiorellaQuijano.github.io/FiorellaQuijano/)  
+  👉 [https://fiorellaquijano.github.io/FiorellaQuijano/](https://fiorellaquijano.github.io/FiorellaQuijano/)  
 
 ---
 
