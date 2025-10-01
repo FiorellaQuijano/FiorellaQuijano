@@ -4,7 +4,7 @@ Soy **estudiante de Ciencias de la Computación en ESPOL** apasionada por el des
 
 ---
 
-## 👩‍💻 Sobre mí  
+## <span style="color:#ba55d3"> 👩‍💻 Sobre mí  
 - 🎓 Carrera: **Ciencias de la Computación (ESPOL)**  
 - 📍 Intereses: Desarrollo web, aplicaciones en Java, interfaces gráficas y proyectos con impacto social.  
 - 🌱 Actualmente aprendiendo: **Desarrollo de aplicaciones web y móviles, Python y proyectos con IA aplicada**.  
@@ -35,7 +35,7 @@ Mi mayor fuente de motivación es mi perrita **Lila** 🐶, una Chihuahua llena 
 - 📎 [Ver repositorio](https://github.com/FiorellaQuijano/Primer-Formulario.git)  
 
 ---
-##  <span style="color:#d291bc">🛠️ Tecnologías & Herramientas  
+## <span style="color:#ba55d3">🛠️ Tecnologías & Herramientas  
 
 - **Java** (POO, manejo de archivos, estructuras de datos)  
 - **JavaFX** (interfaces gráficas interactivas)  
